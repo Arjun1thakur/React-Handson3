@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Dancing Script', cursive;
+}
+body{
+  height: 100vh;
+  background-image: linear-gradient(45deg,rgba(255, 0, 0, 0.651),rgba(0, 0, 255, 0.568));
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
